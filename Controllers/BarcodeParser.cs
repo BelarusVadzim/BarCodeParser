@@ -8,10 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using ZXing;
-using ZXing.Common;
-using ZXing.Datamatrix;
-using ZXing.Multi;
-using ZXing.Multi.QrCode;
+
 
 namespace BarCode
 {
