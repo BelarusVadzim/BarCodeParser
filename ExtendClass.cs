@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace BarCode
 {
-    public static class ExtendClass
+    public static class ExtendClass1
     {
         public static Bitmap Contrast(this Bitmap sourceBitmap, int threshold)
         {
